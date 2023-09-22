@@ -1,0 +1,497 @@
+[
+    {
+        "companyName": "Cognizant Technology Solutions",
+        "salary": "$88,578",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Amazon",
+        "salary": "$136,887",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Tata Consultancy Services",
+        "salary": "$87,419",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Google",
+        "salary": "$149,188",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Infosys",
+        "salary": "$92,468",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Ernst & Young",
+        "salary": "$123,222",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Deloitte Consulting",
+        "salary": "$116,724",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Microsoft",
+        "salary": "$145,354",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "IBM",
+        "salary": "$112,558",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Accenture",
+        "salary": "$131,305",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Capgemini",
+        "salary": "$97,643",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Facebook",
+        "salary": "$172,185",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "HCL America",
+        "salary": "$97,195",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Apple",
+        "salary": "$162,689",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Tech Mahindra",
+        "salary": "$89,146",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "JPMorgan Chase & Co",
+        "salary": "$126,274",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Wipro",
+        "salary": "$78,912",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Walmart",
+        "salary": "$124,093",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Compunnel Software Group",
+        "salary": "$103,423",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Larsen & Toubro Infotech",
+        "salary": "$92,291",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Salesforce.Com",
+        "salary": "$127,259",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Atos Syntel",
+        "salary": "$91,860",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Randstad Technologies",
+        "salary": "$114,043",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Deloitte & Touche",
+        "salary": "$81,553",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Mindtree Ltd",
+        "salary": "$92,803",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Synechron Inc",
+        "salary": "$102,671",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "L&T Technology Services",
+        "salary": "$83,540",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Mphasis",
+        "salary": "$84,087",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "LinkedIn",
+        "salary": "$174,251",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Cisco Systems",
+        "salary": "$144,703",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Qualcomm",
+        "salary": "$147,945",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Intel",
+        "salary": "$132,950",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Citigroup Inc",
+        "salary": "$141,234",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "PayPal",
+        "salary": "$145,416",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Virtusa Corporation",
+        "salary": "$105,481",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Hexaware Technologies",
+        "salary": "$95,451",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "VMware",
+        "salary": "$156,553",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "The Goldman Sachs Group",
+        "salary": "$135,056",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Pricewaterhousecoopers Advisory Services",
+        "salary": "$170,213",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "UST",
+        "salary": "$89,874",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Capital One Services",
+        "salary": "$122,684",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Bank Of America",
+        "salary": "$128,884",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "NTT Data",
+        "salary": "$120,671",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Populus Group",
+        "salary": "$115,775",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "eBay",
+        "salary": "$156,038",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Kforce",
+        "salary": "$131,710",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "System Soft Technologies",
+        "salary": "$101,111",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Blackrock Financial Management",
+        "salary": "$107,614",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Pricewaterhousecoopers",
+        "salary": "$147,075",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "KPMG International Limited",
+        "salary": "$124,656",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Tesla",
+        "salary": "$130,777",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Uber Technologies",
+        "salary": "$155,601",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Cummins",
+        "salary": "$92,649",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Oracle America",
+        "salary": "$146,852",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Anthem",
+        "salary": "$109,046",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "HCL Global Systems",
+        "salary": "$96,441",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Cerner",
+        "salary": "$81,456",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Morgan Stanley Services Group",
+        "salary": "$135,980",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Comcast Cable Communications",
+        "salary": "$118,155",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "QuEST Global",
+        "salary": "$93,866",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Dell",
+        "salary": "$118,868",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Bloomberg",
+        "salary": "$179,692",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Mayo Clinic",
+        "salary": "$121,478",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "CGI Technologies And Solutions",
+        "salary": "$110,168",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Goldman Sachs Services",
+        "salary": "$126,722",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "ProKarma",
+        "salary": "$113,639",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Visa Technology & Operations",
+        "salary": "$136,248",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Mastech Digital Technologies",
+        "salary": "$103,515",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Intuit",
+        "salary": "$161,274",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Nvidia Corporation",
+        "salary": "$176,206",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Advanced Micro Devices",
+        "salary": "$146,235",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Micron Technology",
+        "salary": "$111,373",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Cognizant Worldwide",
+        "salary": "$104,443",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Oath Holdings",
+        "salary": "$169,153",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Genpact",
+        "salary": "$98,742",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Amazon Development Center",
+        "salary": "$131,671",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "EPAM Systems",
+        "salary": "$117,348",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Marlabs",
+        "salary": "$89,280",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "American Express Travel Related Services",
+        "salary": "$124,003",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Infinite Computer Solutions",
+        "salary": "$87,174",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "The Boston Consulting Group",
+        "salary": "$160,339",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Mckinsey & Company",
+        "salary": "$163,391",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Deloitte Tax",
+        "salary": "$71,957",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "University Of Michigan",
+        "salary": "$72,188",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Adobe",
+        "salary": "$137,494",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "SAP America",
+        "salary": "$128,953",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Charter Communications",
+        "salary": "$121,145",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "General Motors Company",
+        "salary": "$110,057",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "V-Soft Consulting Group",
+        "salary": "$102,966",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "ERP Analysts",
+        "salary": "$103,365",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "The Mathworks",
+        "salary": "$115,569",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Amgen",
+        "salary": "$109,197",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Ciber Global",
+        "salary": "$92,991",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Optum Services",
+        "salary": "$122,409",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "CitiusTech",
+        "salary": "$89,789",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Wells Fargo Bank",
+        "salary": "$148,832",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "ServiceNow",
+        "salary": "$123,839",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "HTC Global Services",
+        "salary": "$86,230",
+        "status": "Not Applied"
+    },
+    {
+        "companyName": "Barclays Services",
+        "salary": "$151,117",
+        "status": "Not Applied"
+    }
+]
